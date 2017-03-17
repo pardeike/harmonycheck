@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HarmonyCheck")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("_harmonycheck")]
+[assembly: AssemblyDescription("Makes sure no mod uses Harmony older than 1.0.9")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Andreas Pardeike")]
 [assembly: AssemblyProduct("HarmonyCheck")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
